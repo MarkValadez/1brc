@@ -1,0 +1,1 @@
+rayon::iter::Map<rayon::iter::Filter<rayon::iter::FilterMap<IterBridge<ChunkedLines>, fn(Result<Vec<String>, std::io::Error>) -> Option<Vec<String>> {Result::<Vec<String>, std::io::Error>::ok}>, {closure@src/main.rs:13:17: 13:24}>, {closure@src/main.rs:14:14: 14:21}>

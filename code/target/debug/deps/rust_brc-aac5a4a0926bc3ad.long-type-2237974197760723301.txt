@@ -1,0 +1,1 @@
+rayon::iter::Filter<rayon::iter::Map<rayon::iter::IterBridge<read::ChunkedLines>, {closure@src/main.rs:12:14: 12:21}>, {closure@src/main.rs:13:17: 13:24}>
